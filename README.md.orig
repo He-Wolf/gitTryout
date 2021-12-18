@@ -1,0 +1,16 @@
+# gitTryout
+
+first mod on first branch
+second mod on first branch
+
+<<<<<<< HEAD
+
+first mod on second branch
+second mod on second branch
+third mod on second branch
+fourth mod on second branch
+
+first mod on third branch
+=======
+third mod on first branch
+>>>>>>> 5d10659 (3/1)
